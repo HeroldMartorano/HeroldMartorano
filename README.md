@@ -2,8 +2,8 @@ Olá! Eu sou o Herold Martorano, desenvolvedor front-end!
 
 <div align="center">
   <a href="https://github.com/HeroldMartorano">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=HeroldMartorano&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroldMartorano&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=HeroldMartorano&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroldMartorano&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   <div style="display: inline_block"><br>
