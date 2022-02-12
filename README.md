@@ -19,6 +19,6 @@ Olá! Eu sou o Herold Martorano, desenvolvedor front-end!
   <a href = "mailto:HeroldMartorano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/herold-martorano-64550b210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ![Snake animation](https://github.com/HeroldMartorano)
+    ![Snake animation](https://github.com/HeroldMartorano/HeroldMartorano/blob/output/github-contribution-grid-snake.svg))
  </div>
   
