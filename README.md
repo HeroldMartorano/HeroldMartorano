@@ -10,7 +10,7 @@ Olá! Eu sou o Herold Martorano, desenvolvedor front-end!
   <img align="center" alt="Herold-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Herold-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Herold-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <p>____________________________________________________________________________________________</p>  
+  <p></p>  
 </div>
   
   <div>
